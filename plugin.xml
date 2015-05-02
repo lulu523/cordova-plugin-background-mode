@@ -11,16 +11,16 @@
         Cordova plugin to prevent the app from going to sleep in background.
     </description>
 
-    <repo>https://github.com/katzer/cordova-plugin-background-mode.git</repo>
+    <repo>https://github.com/lulu523/cordova-plugin-background-mode.git</repo>
 
     <keywords>appplant, background</keywords>
 
     <license>Apache 2.0</license>
 
-    <author>Sebastián Katzer</author>
+    <author></author>
 
     <!-- dependencies -->
-    <dependency id="org.apache.cordova.device" />
+    <dependency id="cordova-plugin-device" />
 
     <!-- cordova -->
     <engines>
